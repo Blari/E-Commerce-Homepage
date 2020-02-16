@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.3a5f5ae7.chunk.css",
-    "main.js": "./static/js/main.27143759.chunk.js",
-    "main.js.map": "./static/js/main.27143759.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bb865f24.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bb865f24.js.map",
-    "static/js/2.25fd396b.chunk.js": "./static/js/2.25fd396b.chunk.js",
-    "static/js/2.25fd396b.chunk.js.map": "./static/js/2.25fd396b.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.5c18a7069904bef679f3a5d1c5e8fbee.js": "./precache-manifest.5c18a7069904bef679f3a5d1c5e8fbee.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.3a5f5ae7.chunk.css.map": "./static/css/main.3a5f5ae7.chunk.css.map",
-    "static/js/2.25fd396b.chunk.js.LICENSE.txt": "./static/js/2.25fd396b.chunk.js.LICENSE.txt",
-    "static/media/crown.ed28accb.svg": "./static/media/crown.ed28accb.svg"
+    "main.css": "/Blari/E-Commerce-Homepage/static/css/main.c7c310e4.chunk.css",
+    "main.js": "/Blari/E-Commerce-Homepage/static/js/main.f68fdcab.chunk.js",
+    "main.js.map": "/Blari/E-Commerce-Homepage/static/js/main.f68fdcab.chunk.js.map",
+    "runtime-main.js": "/Blari/E-Commerce-Homepage/static/js/runtime-main.47ab3266.js",
+    "runtime-main.js.map": "/Blari/E-Commerce-Homepage/static/js/runtime-main.47ab3266.js.map",
+    "static/js/2.9640d95b.chunk.js": "/Blari/E-Commerce-Homepage/static/js/2.9640d95b.chunk.js",
+    "static/js/2.9640d95b.chunk.js.map": "/Blari/E-Commerce-Homepage/static/js/2.9640d95b.chunk.js.map",
+    "index.html": "/Blari/E-Commerce-Homepage/index.html",
+    "precache-manifest.59ef667853485407088d228f55c26110.js": "/Blari/E-Commerce-Homepage/precache-manifest.59ef667853485407088d228f55c26110.js",
+    "service-worker.js": "/Blari/E-Commerce-Homepage/service-worker.js",
+    "static/css/main.c7c310e4.chunk.css.map": "/Blari/E-Commerce-Homepage/static/css/main.c7c310e4.chunk.css.map",
+    "static/js/2.9640d95b.chunk.js.LICENSE.txt": "/Blari/E-Commerce-Homepage/static/js/2.9640d95b.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/Blari/E-Commerce-Homepage/static/media/crown.19ef7b17.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb865f24.js",
-    "static/js/2.25fd396b.chunk.js",
-    "static/css/main.3a5f5ae7.chunk.css",
-    "static/js/main.27143759.chunk.js"
+    "static/js/runtime-main.47ab3266.js",
+    "static/js/2.9640d95b.chunk.js",
+    "static/css/main.c7c310e4.chunk.css",
+    "static/js/main.f68fdcab.chunk.js"
   ]
 }
