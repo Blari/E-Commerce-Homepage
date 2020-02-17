@@ -28,7 +28,7 @@ class SignIn extends React.Component {
             console.log(error);
         }
 
-        this.state({ email: '', password: '' })
+        this.setState({ email: '', password: '' })
     }
 
     handleChange = event => {
